@@ -5,9 +5,9 @@
 ### What is Our Project Goal : 
 - :heavy_check_mark:  Let The Client Use The ATM Fast and without any problem 
 - :heavy_check_mark:  Clients can Deposit An Amount for the Balance
-- :heavy_check_mark:  The Balance Satart With 0 Amount
+- :heavy_check_mark:  The Balance Start With 0 Amount
 - :heavy_check_mark:  You can ViewBalance also after every transaction
-- :heavy_check_mark:  The ATM Application save Every Transztion  you did and showing it after you close the application
+- :heavy_check_mark:  The ATM Application save Every Transaction  you did and showing it after you close the application
 - :heavy_check_mark:  Our Project Handling all test that the user can do, So sdont worry about any confilt you will did.
 - :heavy_check_mark:  You will not lose any thing. :smile:
 
