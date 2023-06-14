@@ -13,7 +13,7 @@
 
 --- 
 ### Visual InterFace of our Project :camera:
-!(ATM BANK)[]
+![](https://github.com/Abdallahalomarii/ATMBank/blob/master/ATM_visual.png)
 
 ---
 
