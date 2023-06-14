@@ -13,9 +13,124 @@
 
 --- 
 ### Visual InterFace of our Project :camera:
-![](https://github.com/Abdallahalomarii/ATMBank/blob/master/ATM_visual.png)
+# ATMBank
 
 ---
+
+## Summary
+
+### What is Our Project Goal:
+- :heavy_check_mark: Let the clients use the ATM fast and without any problems.
+- :heavy_check_mark: Clients can deposit an amount into their balance.
+- :heavy_check_mark: The balance starts with an amount of 0.
+- :heavy_check_mark: Clients can view their balance after every transaction.
+- :heavy_check_mark: The ATM application saves every transaction and displays them when the application is closed.
+- :heavy_check_mark: Our project handles all tests that the user can perform, so don't worry about any conflicts you might encounter.
+- :heavy_check_mark: You will not lose anything. 😊
+
+---
+
+### Visual Interface of Our Project 📷
+![ATM Visual SS](https://github.com/Abdallahalomarii/ATMBank/blob/master/ATM_visual.png)
+---
+
+## You may ask yourself how to use our app 😊
+
+### :notebook: Make Sure You Have Cloned the Repository.
+
+#### If You Don't Know How to Clone It, It's Easy! Just Follow These Steps:
+- To use my application, make sure you have .NET Core installed. The version I used is 7.0.
+- In this repository, click on the "Code" button and select HTTPS to copy the repository's URL.
+- Once you run Visual Studio, you will see "Clone repositories." Click on it.
+- A new window will appear. In the "Location" field, paste the copied HTTPS URL.
+- Choose the path where you want to clone the repository.
+- Now you're good to go! 😄
+- If you are already in Visual Studio, you can see the Git bar in the navigation bar. Inside it, you can find "Clone repositories."
+- Repeat the steps mentioned above.
+
+### So here, I will give you some instructions on how to use my application 😄:
+- First, you can run the program by pressing `F5` or choosing `Debug` -> `Start Debugging` in the navigation bar.
+- Then, you will see a console window. Congratulations! You are now inside the ATM.
+- You will see a message asking you to choose the transaction you want to perform.
+- I set the balance to `0` to make it easier for you to understand all the functions.
+- Initially, you will see your balance as `0`, and you can enter `3` to deposit money.
+- After entering `3`, a message will appear asking you to insert the amount you want to add to your balance.
+- Press `Enter` to see the new balance.
+- Next, you can withdraw money from your balance by pressing `2`.
+- A message will prompt you to enter the amount you want to withdraw.
+- After entering the amount and pressing `Enter`, you will see your updated balance.
+- If you want to check your balance without performing any transactions, press `1`.
+- Finally, to exit the ATM app, press `4`. 😔
+- But wait, here's our last feature! You can view all the transactions you have made by pressing any key, after which the console will disappear.
+
+### Notes you have to read and follow while using our app:
+- Don't enter negative numbers.
+- Use only numbers when prompted to enter a value.
+- You cannot add negative money to your balance.
+- You cannot withdraw more than your balance.
+- You cannot withdraw negative money.
+
+### And that's all! We hope you like our application. 😄
+
+---# ATMBank
+
+---
+
+## Summary
+
+### What is Our Project Goal:
+- :heavy_check_mark: Let the clients use the ATM fast and without any problems.
+- :heavy_check_mark: Clients can deposit an amount into their balance.
+- :heavy_check_mark: The balance starts with an amount of 0.
+- :heavy_check_mark: Clients can view their balance after every transaction.
+- :heavy_check_mark: The ATM application saves every transaction and displays them when the application is closed.
+- :heavy_check_mark: Our project handles all tests that the user can perform, so don't worry about any conflicts you might encounter.
+- :heavy_check_mark: You will not lose anything. 😊
+
+---
+
+### Visual Interface of Our Project 📷
+![ATM BANK](image_link_goes_here)
+
+---
+
+## You may ask yourself how to use our app 😊
+
+### :notebook: Make Sure You Have Cloned the Repository.
+
+#### If You Don't Know How to Clone It, It's Easy! Just Follow These Steps:
+- To use my application, make sure you have .NET Core installed. The version I used is 7.0.
+- In this repository, click on the "Code" button and select HTTPS to copy the repository's URL.
+- Once you run Visual Studio, you will see "Clone repositories." Click on it.
+- A new window will appear. In the "Location" field, paste the copied HTTPS URL.
+- Choose the path where you want to clone the repository.
+- Now you're good to go! 😄
+- If you are already in Visual Studio, you can see the Git bar in the navigation bar. Inside it, you can find "Clone repositories."
+- Repeat the steps mentioned above.
+
+### So here, I will give you some instructions on how to use my application 😄:
+- First, you can run the program by pressing `F5` or choosing `Debug` -> `Start Debugging` in the navigation bar.
+- Then, you will see a console window. Congratulations! You are now inside the ATM.
+- You will see a message asking you to choose the transaction you want to perform.
+- I set the balance to `0` to make it easier for you to understand all the functions.
+- Initially, you will see your balance as `0`, and you can enter `3` to deposit money.
+- After entering `3`, a message will appear asking you to insert the amount you want to add to your balance.
+- Press `Enter` to see the new balance.
+- Next, you can withdraw money from your balance by pressing `2`.
+- A message will prompt you to enter the amount you want to withdraw.
+- After entering the amount and pressing `Enter`, you will see your updated balance.
+- If you want to check your balance without performing any transactions, press `1`.
+- Finally, to exit the ATM app, press `4`. 😔
+- But wait, here's our last feature! You can view all the transactions you have made by pressing any key, after which the console will disappear.
+
+### Notes you have to read and follow while using our app:
+- Don't enter negative numbers.
+- Use only numbers when prompted to enter a value.
+- You cannot add negative money to your balance.
+- You cannot withdraw more than your balance.
+- You cannot withdraw negative money.
+
+### And that's all! We hope you like our application. 😄
 
 ## You may ask your self how to use our app :blush:
 
